@@ -7,6 +7,3 @@ class Person
     puts "The Person is walking"
   end
 end
-
-mike=Person.new()
-mike.walk()
